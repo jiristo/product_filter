@@ -4,3 +4,4 @@ resources/tmp/*
 *.json
 *.DS_Store
 *.gz
+*.ipynb_checkpoints
