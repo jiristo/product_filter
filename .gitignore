@@ -1,5 +1,6 @@
 libraries/*
 resources/tmp/*
-data/*.csv
-data/*.json
+*.csv
+*.json
 *.DS_Store
+*.gz
